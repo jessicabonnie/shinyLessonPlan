@@ -1,0 +1,8 @@
+
+## Create a new application
+
+There is a joke that there has only ever been one shiny application which has been stolen and copied to produce every other one ... this is accurate. Don't reinvent the wheel if you don't have to!
+
+I highly recommend that when you initiate a new application, you always use the two file format. It's important for you to treat the ui and server components completely separately in thought and deed.
+
+Rstudio will let you initiate a brand new r shiny application with the click of a few buttons... and then you can add what you need from there, making sure it works at each step.
